@@ -1,0 +1,23 @@
+{
+  "blockId": "k3dDTXaUUdCUSN77WI3Lx",
+  "name": "PackageA_12Oct",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/12Oct.git",
+    "ssh": "git@github.com:grgshiji/12Oct.git",
+    "branch": "block_PackageA_12Oct"
+  },
+  "parentBlockIDs": [
+    "RbCN48QizilqiM0IaoObW"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "PackageA_12Oct_fn": {
+      "directory": "PackageA_12Oct_fn"
+    }
+  }
+}
