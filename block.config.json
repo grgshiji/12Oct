@@ -1,0 +1,21 @@
+{
+  "blockId": "CReV2dszFC0Fz1aTbR1qS",
+  "name": "PackageA_12Oct_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/12Oct.git",
+    "ssh": "git@github.com:grgshiji/12Oct.git",
+    "branch": "block_PackageA_12Oct_fn"
+  },
+  "parentBlockIDs": [
+    "RbCN48QizilqiM0IaoObW",
+    "k3dDTXaUUdCUSN77WI3Lx"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
